@@ -292,3 +292,8 @@ jQuery(document).ready(function($) {
 	swiperSetting();
 
 });
+// MODAL POPUP START
+$(window).load(function(){        
+	$('#myModal').modal('show');
+	 }); 
+// MODAL POPUP END
